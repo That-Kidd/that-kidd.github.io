@@ -1,14 +1,17 @@
 ---
 title: Welcome to the Nexus
-date: 2026-04-21 5:40:32 -500
-categories: [introduction, welcome]
-tags: [introduction, welcome]
+date: 2026-04-21 5:40:32 
+categories: [Welcome]
+tags: [introduction]
 ---
 
 # Welcome to the Nexus! 
 
 This is my little corner on the internet! 
+
+
 This is where most of my projects will be, including links to my socials ect.
+
 
 ### What is Kidd's Nexus? 
 
@@ -19,4 +22,4 @@ This is where most of my projects will be, including links to my socials ect.
 
 I have plans to post what I do/done here in the future. Thanks for checking my site out!
 <sub>-That_Kidd</sub>
----
+
